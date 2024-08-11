@@ -204,13 +204,10 @@ azure-storage-blob
 2. **Configure Environment Variables**: Set up required environment variables for Azure Storage and email settings.
 3. **Create and Configure Logic App**: Set up the Logic App to automate the process based on the described workflow.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any questions or support, please contact [Your Name](mailto:roy.thedivineacademy@gmail.com).
 
-```
+
 
