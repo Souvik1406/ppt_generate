@@ -1,8 +1,7 @@
-# ppt_generate
+# Automated PPT Generation Project - TEST
 
 ## Here's a comprehensive `README.md` file for your GitHub repository, detailing the Azure Function and Logic App workflow:
 
-```markdown
 # Azure Security Logs Processing and Reporting
 
 ## Overview
@@ -28,7 +27,7 @@ The Azure Function reads security logs from Azure Blob Storage, generates a summ
 
 ### Code
 
-```python
+```
 import logging
 import pandas as pd
 import matplotlib.pyplot as plt
